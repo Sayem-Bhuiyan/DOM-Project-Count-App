@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#count-box {
+    margin-top: 100px;
+    text-align: center;
+}
+#number {
+    font-size: 2rem;
+}
+#btn-1, #btn-2 {
+    height: 45px;
+    width: 40px;
+    border-radius: 8px;
+    margin-top: 10px;
+    font-size: 1.5rem;
+    border: none;
+}
+#btn-1{
+    background-color: aqua;
+    margin-right: 5px;
+}
+#btn-2 {
+    background-color: aquamarine;
+}
